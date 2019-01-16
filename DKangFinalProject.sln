@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DKangFinalProject", "DKangFinalProject\DKangFinalProject.csproj", "{DDA80FA7-0B34-4786-93F3-259AD6C91AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA80FA7-0B34-4786-93F3-259AD6C91AA8}.Debug|x86.ActiveCfg = Debug|x86
+		{DDA80FA7-0B34-4786-93F3-259AD6C91AA8}.Debug|x86.Build.0 = Debug|x86
+		{DDA80FA7-0B34-4786-93F3-259AD6C91AA8}.Release|x86.ActiveCfg = Release|x86
+		{DDA80FA7-0B34-4786-93F3-259AD6C91AA8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8BE670-9967-4BA3-88D2-A2E0042779AD}
+	EndGlobalSection
+EndGlobal
